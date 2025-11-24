@@ -18,3 +18,13 @@
 #### **Linux:**
 #### python3 main.py
 
+### Краткая структура проекта:
+investment-simulator/
+├── main.py              # Главное приложение (около 500 строк)
+├── requirements.txt     # Зависимости: PyQt5, matplotlib, numpy
+└── README.md           # Документация
+
+Основные классы:
+• InvestmentSimulator - ядро приложения
+• InvestmentInstrument - инструменты инвестирования  
+• MarketEvent - рыночные события
