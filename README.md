@@ -1,7 +1,13 @@
-# 🎮 Инвестиционный симулятор «Расти с ВТБ»
+# Инвестиционный симулятор «Расти с ВТБ»
+## Версия Python: 3.11
+## Установка зависимостей:
+### pip install -r requirements.txt
+## Команды запуска
+### python -m venv .venv
+### * Windows:
+### .venv/Scripts/activate
+### python main.py
+### * Linux:
+### source .venv/bin/activate
+### python3 main.py
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
-![PyQt5](https://img.shields.io/badge/PyQt5-5.15-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
