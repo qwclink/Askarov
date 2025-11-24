@@ -5,10 +5,10 @@
 #### pip install -r requirements.txt
 ### Команды запуска
 #### python -m venv .venv
-#### * Windows:
+#### **Windows:**
 #### .venv\Scripts\activate
 #### python main.py
-#### * Linux:
+#### **Linux:**
 #### source .venv/bin/activate
 #### python3 main.py
 
